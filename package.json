@@ -1,0 +1,25 @@
+{
+  "name": "sfarduino",
+  "version": "4.2.0",
+  "description": "salesforce-heroku client connecting with arduino",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.0",
+    "johnny-five": "~0.7.46",
+    "socket.io": "1.4.5",
+    "ejs": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanchitdua/sfarduino_server.git"
+  },
+  "author": "Sanchit Dua",
+  "bugs": {
+    "url": "https://github.com/sanchitdua/sfarduino_server/issues"
+  },
+  "homepage": "https://github.com/sanchitdua/sfarduino_server"
+}
